@@ -1,7 +1,7 @@
 # Serious-Game
 I contributed to some scripts in a serious game using Unity.
 
-During an internship, I worked on a project that aimed to enhance the experience of playing and learning. I contributed to the game's interface and more in the backend, specifically in scripting. I share with you some of the scripts in this repository.
+During an internship, I worked on an open-source project that aimed to enhance the experience of playing and learning. I contributed to the game's interface and more in the backend, specifically in scripting. I share with you some of the scripts in this repository.
 
 The whole Projet : [GLUPS-123 Repository](https://github.com/FSTT-LIST/GLUPS-123/tree/master)
 
